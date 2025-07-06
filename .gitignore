@@ -13,3 +13,4 @@ node_modules/
 *.key
 *.json
 cert/
+jdk-8u202-windows-x64.exe
